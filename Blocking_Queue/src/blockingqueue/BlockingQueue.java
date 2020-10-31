@@ -127,7 +127,7 @@ class ProdConsEmptyFullCondition {
 			c[i].start();
 		}
 		
-		System.out.println("New commit");
+
 	}
 }
 
