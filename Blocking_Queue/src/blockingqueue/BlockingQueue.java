@@ -126,7 +126,8 @@ class ProdConsEmptyFullCondition {
 			c[i] = new Consumer(buffer);
 			c[i].start();
 		}
-
+		
+		System.out.println("New commit");
 	}
 }
 
